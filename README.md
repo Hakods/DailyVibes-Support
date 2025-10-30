@@ -5,7 +5,7 @@ About Support page for the DailyVibes iOS app.
 
 If you have any questions, feedback, or need assistance, please feel free to contact us. We’ll get back to you as soon as possible.
 
-Email Support: dailyvibes.development@gmail.com
+Email Support: dailyvibes.develop@gmail.com
 
 Bug Reports & Feature Requests: Please open an issue on this repository's Issues tab. (Lütfen kullanici-adin/repo-adin kısmını kendi GitHub bilgilerinle değiştir)
 
@@ -51,7 +51,7 @@ A: The app sends you one notification (a "ping") at a random time each day betwe
 
 Q: How can I report a bug or suggest a new feature?
 
-A: The best way is to open an issue on this repository. You can also email us directly at dailyvibes.development@gmail.com.
+A: The best way is to open an issue on this repository. You can also email us directly at dailyvibes.develop@gmail.com.
 
 <hr />
 
