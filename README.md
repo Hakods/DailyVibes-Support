@@ -17,9 +17,9 @@ A: Vibe Mind is your personal mindfulness partner. It helps you quickly capture 
 
 <hr />
 
-Q: How does the "Mind Coach" feature work?
+Q: How does the "Vibe Coach" feature work?
 
-A: The Mind Coach is your personal AI assistant. You can ask it questions (e.g., "Why have I been feeling tired lately?"), and it will analyze your past mood entries and notes to provide personalized insights and reflections based only on your own data.
+A: The Vibe Coach is your personal AI assistant. You can ask it questions (e.g., "Why have I been feeling tired lately?"), and it will analyze your past mood entries and notes to provide personalized insights and reflections based only on your own data.
 
 <hr />
 
@@ -27,7 +27,7 @@ Q: Where is my data stored? Is it private?
 
 A: Your privacy is our top priority. All your entries (moods, scores, notes) are stored securely and locally on your device using Core Data. We do not have access to your personal journal entries.
 
-When you use the optional Mind Coach or generate AI Summaries, your (anonymized) entry data is sent securely to Firebase AI (Google) for analysis, but it is not stored permanently by the service or linked back to you.
+When you use the optional Vibe Coach or generate AI Summaries, your (anonymized) entry data is sent securely to Firebase AI (Google) for analysis, but it is not stored permanently by the service or linked back to you.
 
 <hr />
 
@@ -35,7 +35,7 @@ Q: What do I get with Vibe Mind Pro?
 
 A: The Pro subscription unlocks the full power of the app, including:
 
-Unlimited conversations with the AI Mind Coach (free users have a daily limit).
+Unlimited conversations with the AI Vibe Coach (free users have a daily limit).
 
 Automated AI-powered Weekly and Monthly Summaries to see long-term trends.
 
